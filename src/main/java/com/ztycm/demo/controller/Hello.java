@@ -13,7 +13,7 @@ public class Hello {
 	@RequestMapping("test")
 	public Map<String, String> test(){
 		Map<String, String> result = new HashMap<>();
-		result.put("name", "周彤");
+		result.put("name", "zt");
 		return result;
 	} 
 }
