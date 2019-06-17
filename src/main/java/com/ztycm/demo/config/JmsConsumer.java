@@ -1,4 +1,4 @@
-package com.ztycm.demo.configuration;
+package com.ztycm.demo.config;
 
 import javax.jms.JMSException;
 import javax.jms.Message;

@@ -11,7 +11,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import com.ztycm.demo.ActiveMqDemoApplication;
-import com.ztycm.demo.configuration.JmsProducer;
+import com.ztycm.demo.config.JmsProducer;
 
 @SpringBootTest(classes = ActiveMqDemoApplication.class)
 @RunWith(SpringRunner.class)
